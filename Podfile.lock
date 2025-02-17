@@ -39,7 +39,7 @@ DEPENDENCIES:
   - web3swift (~> 2.0)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - BigInt
     - CryptoSwift
     - EthereumABI
@@ -67,4 +67,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 143d5b1187cf35006bc52f4da1d8328c65343a6d
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.15.2
